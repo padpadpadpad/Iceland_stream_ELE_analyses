@@ -9,13 +9,15 @@ This repository contains the final datasets, analyses and figures of the above-m
 ### Running the scripts and analyses
 
 - The project can be `cloned` or for those not familiar with GitHub, a zip file of this project can be downloaded using the "Clone or download" button at the top right of this page.
-- Open the R project file in the downloaded folder. [R projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects) automatically assigns the root directory to the directory in which the project resides. Consequently all of the analyses should be runnable without altering paths. 
+- Open the R project file in the downloaded folder. [R projects](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects) automatically assigns the root directory to the directory in which the project resides. Consequently all of the analyses should be runnable without altering paths. These are very easy to open using RStudio.
 - Firstly run the script `install_packages.R` which will install all the packages necessary to run the analyses (at least one is downloaded from GitHub)
 - `pop_level_metab.R` contains the analysis of the metabolic rates of population-level metabolism.
 - `eco_level_metab_process.R` contains the code to process rates of oxygen concentration into estimates of stream metabolism. This script follows the methods in the Supplementary Information of the paper. This script does not have to be run for `eco_level_metab_analysis.R` to work.
 - `eco_level_metab_analysis.R` contains the analysis of ecosystem-level GPP.
 - All of the data needed to run the analyses are stored in `data/`
 - All figures produced by the analysis are eventually saved in `figures/` and are labelled as they are in the main text.
+
+__All analses are done in R version 3.4.1, on macOS Sierra 10.12.3. I am unsure whether some older version of R will support all of the packages and whether the analyses will run exactly the same.__
 
 ### Feedback
 
