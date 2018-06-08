@@ -1,6 +1,14 @@
 # Analyses of population- and ecosystem-level stream metabolism as published in:
 
-_Padfield et al. (2017) Metabolic compensation constraints the temperature dependence of gross primary production. Ecology Letters_
+_Padfield et al. (2017) Metabolic compensation constrains the temperature dependence of gross primary production. Ecology Letters, 20.10: 1250-1260_
+
+DOI of paper:
+
+[doi: 10.1111/ele.12820](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.12820)
+
+DOI of repository and dataset:
+
+[![DOI](https://zenodo.org/badge/99806728.svg)](https://zenodo.org/badge/latestdoi/99806728)
 
 ### Outline
 
